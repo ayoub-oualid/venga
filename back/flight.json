@@ -1,0 +1,8 @@
+[
+    { "flightId": "F123", "pointsPerTicket": 5 },
+    { "flightId": "F124", "pointsPerTicket": 13 },
+    { "flightId": "F125", "pointsPerTicket": 10 },
+    { "flightId": "F126", "pointsPerTicket": 15 },
+    { "flightId": "F127", "pointsPerTicket": 20 }
+  ]
+  
